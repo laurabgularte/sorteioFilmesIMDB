@@ -27,7 +27,7 @@ void sugerir_filme(Filme lista_filmes[], int tamanho_lista) {
     int contador_filtrados = 0;
     int indice_sorteado;
 
-    printf("--- Sugestão de Filmes IMDb Ampliada (C) ---\n");
+    printf("Sugestão de Filmes IMDb\n");
     printf("Gêneros disponíveis: Drama, Crime, Ação, Fantasia, Ficção Científica, Comédia, Terror\n");
     
     printf("\nQual gênero você gostaria de assistir? ");
